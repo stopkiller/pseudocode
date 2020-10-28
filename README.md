@@ -1,0 +1,2 @@
+# pseudocode
+seudo códigos básicos
